@@ -42,6 +42,10 @@ h3 {
   font-size: 2rem;
 }
 
+.CV-FLEX {
+  border-bottom: 0.5px solid grey;
+}
+
 .CV-DOC {
   background-image: url("../img/CV.png");
   width: 10rem;
