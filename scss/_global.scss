@@ -37,6 +37,15 @@ h3 {
   font-size: 2rem;
 }
 
+.CV-DOC {
+  background-image: url("../img/CV.png");
+  width: 10rem;
+  height: 7.813rem;
+  img {
+    object-fit: contain;
+  }
+}
+
 .Project-List {
   display: flex;
   flex-direction: row;
